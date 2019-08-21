@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-smd-rgb",
+  "title": "smd-rgb",
+  "keywords": "smd-rgb, esp32, esp8266, arduino",
+  "description": "smd-rgb plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-smd-rgb/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-smd-rgb/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
