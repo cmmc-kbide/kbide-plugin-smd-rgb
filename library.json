@@ -1,11 +1,11 @@
 {
   "name" : "kbide-plugin-smd-rgb",
-  "title": "smd-rgb",
+  "title": "KY-009 RGB FULL COLOR LED SMD MODULE",
   "keywords": "smd-rgb, esp32, esp8266, arduino",
   "description": "smd-rgb plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-smd-rgb/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-smd-rgb/",
   "version": "1.0.0",
